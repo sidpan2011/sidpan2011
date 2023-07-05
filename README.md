@@ -9,6 +9,8 @@
 
 - 📫 How to reach me **sidh.pan98@gmail.com**
 
+- 📄 Know about my experiences [https://github.com/sidpan2011/My-Resume](https://github.com/sidpan2011/My-Resume)
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
