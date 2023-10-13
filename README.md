@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sidhanth Pandey</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on [Typing Master](https://github.com/sidpan2011/Typing-Master)
+- 🔭 I’m currently working as a Frontend Developer at [Assessprep]([(https://www.linkedin.com/company/assessprep/mycompany/)])
 
 - 🌱 I’m currently learning **React, TypeScript, MongoDB**
 
