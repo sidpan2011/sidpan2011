@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React, TypeScript, MongoDB**
 
-- 💬 Ask me about **JavaScript, C programming language, HTML, CSS.**
+- 💬 Ask me about **JavaScript,Node,Express, C programming language, HTML, CSS.**
 
 - 📫 How to reach me **sidh.pan98@gmail.com**
 
