@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sidhanth Pandey</h1>
+<h1 align="center">Hi, I'm Sidhanth Pandey</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 - 🔭 I’m currently working as a Frontend Developer at [Assessprep]([(https://www.linkedin.com/company/assessprep/mycompany/)])
