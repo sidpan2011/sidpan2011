@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Sidhanth and I'm a frontend developer, from India.</p>
+<p align="left">My name is Sidhanth and I'm a full stack developer, but I love to work on frontend and I am from India.</p>
 
 ###
 
