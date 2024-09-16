@@ -2,6 +2,8 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 - 🌱 I’m currently learning **GSAP, Framer-motion**
+  
+- 🌟 My expertise lies in Web3 technologies, Blockchain development, and leveraging the Solana SDK to build scalable and decentralized solutions.
 
 - 🤝 I’m looking for help with [VaultBase](https://sidhanthpandey.notion.site/Chrome-extension-Profile-Card-VaultBase-0a1cecb6a4ce4d8b9453e2e419819df0)
 
