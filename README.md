@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sidhanth</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+- 💻 Building ZeroByte
+
 - 🌱 I’m currently learning **GSAP, Framer-motion**
   
 - 🌟 My expertise lies in Web2, Web3 technologies, Blockchain development, and leveraging the Solana SDK to build scalable and decentralized solutions.
