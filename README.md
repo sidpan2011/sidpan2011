@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sidhanth</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 💻 Building [ZeroByte](https://dev.0byte.tech/)
+- 💻 Building [ZeroByte](https://0byte.tech/)
 
 - 🌱 I’m currently learning **GSAP, Framer-motion**
   
