@@ -3,7 +3,7 @@
 
 - 💻 Building [ZeroByte](https://dev.0byte.tech/)
 
-- 🌱 I’m currently learning **GSAP, Framer-motion**
+- 🌱 I’m currently learning **Web3
   
 - 🌟 My expertise lies in Web2, Web3 technologies, Blockchain development, and leveraging the Solana SDK to build scalable and decentralized solutions.
 
