@@ -3,7 +3,7 @@
 
 - 💻 Building [9th-lab](https://github.com/9th-lab) [ZeroByte](https://www.0byte.tech/)
 
-- 🌱 I’m currently learning **Web3**
+- 🌱 I’m currently learning **Web3**, **LLM**
   
 - 🌟 My expertise lies in Web2, Web3 technologies, Blockchain development, and leveraging the Solana SDK to build scalable and decentralized solutions.
 
