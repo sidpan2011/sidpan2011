@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sidhanth</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 
-- 💻 Building [Nolabs](https://github.com/nolabs-tech) [ZeroByte](https://www.0byte.tech/)
+- 💻 Building [Nolabs](https://github.com/nolabs-tech) [0byte](https://www.0byte.tech/)
 
 - 🌱 I’m currently learning **Web3**, **LLM**
   
