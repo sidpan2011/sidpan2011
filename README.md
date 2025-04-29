@@ -7,7 +7,7 @@
   
 - 🌟 My expertise lies in Web2, Web3 technologies, Blockchain development, and leveraging the Solana SDK to build scalable and decentralized solutions.
 
-- 📝 I regularly write articles on [https://medium.com/@sidhanthpandey](https://medium.com/@sidhanthpandey)
+- 📝 I write articles on [https://medium.com/@sidhanthpandey](https://medium.com/@sidhanthpandey)
 
 - 💬 Ask me about **react, next.js**
 
