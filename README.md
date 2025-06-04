@@ -1,14 +1,1 @@
-<h1 align="center">Hi 👋, I'm Sidhanth</h1>
-<h3 align="center">A passionate full-stack developer from India</h3>
-
-- 💻 Building [0byte](https://www.0byte.tech/)
-
-- 🌱 I’m currently learning **Web3**, **LLM**
-  
-- 🌟 My expertise lies in Web2, Web3 technologies, Blockchain development, and leveraging the Solana SDK to build scalable and decentralized solutions.
-
-- 📝 I write articles on [https://medium.com/@sidhanthpandey](https://medium.com/@sidhanthpandey)
-
-- 💬 Ask me about **react, next.js**
-
-- 📫 How to reach me **sidh.pan98@gmail.com**
+Hi 👋 I’m **Sidhanth**—a full-stack developer from India obsessed with shipping clean, modern products. Right now I’m building **[0byte](https://www.0byte.tech/)**, a Solana-powered “SSL for AI content,” while leveling up on Web3 and large-language-model chops. My toolkit runs the gamut from classic Web2 React/Next.js stacks to on-chain Web3 workflows, and I love wrangling the Solana SDK to turn ambitious ideas into scalable, decentralized reality. I share what I learn on [Medium](https://medium.com/@sidhanthpandey), so feel free to dive in—or just ping me about React, Next.js, or anything dev-life at <sidh.pan98@gmail.com>.
